@@ -1,6 +1,6 @@
 # Double-inverted-pendulum
 
-### Using Python
+### Using Python (stable_baselines3 gymnasium[mujoco] tensorboard tensorflow...)
 
 #### Using a Virtual Environment
 #### Using the DDPG Algorithm
